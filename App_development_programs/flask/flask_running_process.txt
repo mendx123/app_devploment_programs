@@ -1,0 +1,11 @@
+>create a folder on desktop
+>go to vs code and open the folder
+>go to cmd and type :
+	->cd desktop
+	->cd <File_name>
+	->python -m venv ./venv/
+	->.\venv\scripts\activate
+	->pip install flask
+	->pip list
+	->pip freeze>requirements.txt
+	->flask run
